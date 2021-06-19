@@ -19,3 +19,5 @@ After executing my tableau specific queries, I exported each table into separate
 
 ## Tableau Dashboard
 [Click here to view my Covid-19 Dashboard](https://public.tableau.com/views/Covid-19Dashboard_16241426701840/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![](https://github.com/darienlizano/covid_portfolio_proj_sql/blob/main/Covid_Dashboard%20.png | width = 100)
